@@ -1,0 +1,1179 @@
+[
+  {
+    "event": {
+      "type": "wedding",
+      "title": "Traditional Goan Destination Wedding",
+      "occasion": "Wedding"
+    },
+    "date": "2027-12-15",
+    "location": "South Goa",
+    "guests": 120,
+    "currency": "INR",
+    "total_budget": 1800000,
+    "assumptions": [
+      "Mid-range boutique resort or heritage venue",
+      "Guests manage their own travel to Goa",
+      "Wedding spans 2 days with 3 main functions",
+      "Local Goan vendors to minimize travel costs"
+    ],
+    "budget": [
+      {
+        "category": "Venue & Catering",
+        "icon": "building-2",
+        "percent": 48,
+        "amount": 864000,
+        "notes": "Includes 2 days of meals and ceremony space"
+      },
+      {
+        "category": "Photography & Video",
+        "icon": "camera",
+        "percent": 10,
+        "amount": 180000,
+        "notes": "Traditional and candid coverage for all events"
+      },
+      {
+        "category": "Decor & Flowers",
+        "icon": "flower-2",
+        "percent": 10,
+        "amount": 180000,
+        "notes": "Traditional marigolds and local tropical flora"
+      },
+      {
+        "category": "Attire & Beauty",
+        "icon": "shirt",
+        "percent": 10,
+        "amount": 180000,
+        "notes": "Bridal lehenga/saree, groom's sherwani, and MUA"
+      },
+      {
+        "category": "Entertainment & Music",
+        "icon": "music",
+        "percent": 7,
+        "amount": 126000,
+        "notes": "DJ, sound system, and local folk performers"
+      },
+      {
+        "category": "Logistics & Invites",
+        "icon": "car",
+        "percent": 6,
+        "amount": 108000,
+        "notes": "Local transport for guests and digital invites"
+      },
+      {
+        "category": "Contingency",
+        "icon": "piggy-bank",
+        "percent": 9,
+        "amount": 162000,
+        "notes": "Reserved for unexpected destination costs"
+      }
+    ],
+    "timeline": [
+      {
+        "when": "T-12 Months",
+        "due_date": "2026-12-15",
+        "task": "Shortlist and book Goa venue and accommodation",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-10 Months",
+        "due_date": "2027-02-15",
+        "task": "Hire lead photographer and videographer",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-8 Months",
+        "due_date": "2027-04-15",
+        "task": "Finalize guest list and send digital Save-the-Dates",
+        "owner": "user",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-6 Months",
+        "due_date": "2027-06-15",
+        "task": "Start wedding attire shopping and jewelry selection",
+        "owner": "family",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-4 Months",
+        "due_date": "2027-08-15",
+        "task": "Book makeup artist, hair stylist, and mehendi artist",
+        "owner": "user",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-3 Months",
+        "due_date": "2027-09-15",
+        "task": "Send formal invitations with travel itineraries",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2 Months",
+        "due_date": "2027-10-15",
+        "task": "Finalize traditional food menu and decor layouts",
+        "owner": "user",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-1 Month",
+        "due_date": "2027-11-15",
+        "task": "Confirm all vendor arrivals and local transport",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      }
+    ],
+    "vendors": [
+      {
+        "type": "Venue Manager",
+        "icon": "building-2",
+        "ask_before_booking": [
+          "Is there a power backup for outdoor events?",
+          "What is the noise cutoff time for music?"
+        ],
+        "contract_must_include": [
+          "Room blocking details",
+          "Check-in/out flexibility",
+          "Taxes and service charges"
+        ],
+        "payment_advice": "50% deposit to block dates, balance 1 week before",
+        "red_flags": [
+          "Hidden corkage fees",
+          "Poor maintenance of outdoor lawns"
+        ]
+      },
+      {
+        "type": "Decorator",
+        "icon": "flower-2",
+        "ask_before_booking": [
+          "Do you source local flowers or import them?",
+          "Can you handle beach-side setup permits?"
+        ],
+        "contract_must_include": [
+          "Detailed itemized list of decor",
+          "Setup completion time"
+        ],
+        "payment_advice": "Pay 30% advance, 40% mid-way, 30% post-event",
+        "red_flags": [
+          "No portfolio of outdoor Goa weddings"
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "theme": "Royal Goan Heritage",
+        "style": "classic",
+        "vibe": "Elegant and timeless with Indo-Portuguese influences.",
+        "palette": [
+          {
+            "name": "Royal Gold",
+            "hex": "#D4AF37"
+          },
+          {
+            "name": "Deep Crimson",
+            "hex": "#990000"
+          },
+          {
+            "name": "Ivory",
+            "hex": "#FFFFF0"
+          }
+        ],
+        "decor": "Brass lamps, marigold garlands, and vintage wooden furniture.",
+        "food": "Traditional Goan Hindu feast served on banana leaves.",
+        "signature_moment": "A grand entry on a decorated traditional boat."
+      },
+      {
+        "theme": "Tropical Beach Traditional",
+        "style": "modern",
+        "vibe": "Relaxed yet ceremonial with a focus on natural elements.",
+        "palette": [
+          {
+            "name": "Turquoise",
+            "hex": "#40E0D0"
+          },
+          {
+            "name": "Coral",
+            "hex": "#FF7F50"
+          },
+          {
+            "name": "Sand",
+            "hex": "#C2B280"
+          }
+        ],
+        "decor": "Bamboo mandap with flowing drapes and seashell accents.",
+        "food": "Coastal seafood specialties and fresh coconut water station.",
+        "signature_moment": "Vows exchanged during the golden hour sunset."
+      },
+      {
+        "theme": "Marigold Garden Magic",
+        "style": "budget_diy",
+        "vibe": "Vibrant, festive, and full of traditional energy.",
+        "palette": [
+          {
+            "name": "Saffron",
+            "hex": "#F4C430"
+          },
+          {
+            "name": "Emerald Green",
+            "hex": "#50C878"
+          },
+          {
+            "name": "White",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "decor": "Drapes of orange and yellow marigolds with fairy lights.",
+        "food": "Live chaat counters and traditional mithai platters.",
+        "signature_moment": "A high-energy dhol procession leading to the mandap."
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Unseasonal rain in Goa",
+        "backup_plan": "Ensure the venue has an indoor ballroom or waterproof marquee."
+      },
+      {
+        "risk": "Vendor delays due to local logistics",
+        "backup_plan": "Hire a local wedding coordinator to manage on-ground arrivals."
+      }
+    ],
+    "next_actions": [
+      "Finalize invitation wording and design",
+      "Select 3 South Goa resorts for a site visit",
+      "Research local Goan wedding photographers"
+    ],
+    "id": "evt_1793446590133_fz2sb",
+    "createdAt": "2026-10-31T11:36:30.133Z",
+    "updatedAt": "2026-10-31T11:38:34.425Z"
+  },
+  {
+    "id": "evt_1793287578109_zxm0n",
+    "event": {
+      "type": "community",
+      "title": "Community Get-Together for 100",
+      "occasion": "Social Get-Together"
+    },
+    "date": "2026-11-29",
+    "location": "Clubhouse / Local Park",
+    "guests": 100,
+    "currency": "INR",
+    "total_budget": 20000,
+    "assumptions": [
+      "Budget calculated at ₹200 per guest for 100 people",
+      "Snacks and high-tea format instead of full meal",
+      "Venue chosen is low-cost clubhouse or society lawn",
+      "10% contingency strictly reserved in budget"
+    ],
+    "budget": [
+      {
+        "category": "Food & Refreshments",
+        "icon": "utensils",
+        "percent": 50,
+        "amount": 10000,
+        "notes": "Bulk samosas, sweets, tea/coffee & soft drinks for 100"
+      },
+      {
+        "category": "Venue & Facility Fee",
+        "icon": "building-2",
+        "percent": 18,
+        "amount": 3600,
+        "notes": "Society clubhouse, community terrace or park permit"
+      },
+      {
+        "category": "Disposables & Water",
+        "icon": "package",
+        "percent": 8,
+        "amount": 1600,
+        "notes": "Eco-friendly plates, paper cups, napkins & water jars"
+      },
+      {
+        "category": "Sound & Activities",
+        "icon": "music",
+        "percent": 7,
+        "amount": 1400,
+        "notes": "Portable bluetooth speaker, cordless mic & game props"
+      },
+      {
+        "category": "DIY Decor & Signage",
+        "icon": "flower-2",
+        "percent": 7,
+        "amount": 1400,
+        "notes": "Fairy lights, welcome banner and polaroid photo corner"
+      },
+      {
+        "category": "Contingency",
+        "icon": "piggy-bank",
+        "percent": 10,
+        "amount": 2000,
+        "notes": "Emergency buffer for extra snacks, ice, or trash bags"
+      }
+    ],
+    "timeline": [
+      {
+        "when": "Immediate / This Week",
+        "due_date": "2026-10-29",
+        "task": "Reserve society clubhouse, park space, or common terrace",
+        "owner": "user",
+        "priority": "high",
+        "status": "do_now",
+        "done": false
+      },
+      {
+        "when": "T-3.5 weeks",
+        "due_date": "2026-11-04",
+        "task": "Circulate digital invite & RSVP poll on community chat",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2.5 weeks",
+        "due_date": "2026-11-12",
+        "task": "Negotiate package price with local halwai/caterer for 100 snack boxes",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2 weeks",
+        "due_date": "2026-11-15",
+        "task": "Source portable PA speaker, cordless mic, and build playlist",
+        "owner": "volunteer",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-1.5 weeks",
+        "due_date": "2026-11-19",
+        "task": "Purchase compostable plates, paper glasses, and paper napkins",
+        "owner": "family",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-1 week",
+        "due_date": "2026-11-22",
+        "task": "Lock final RSVP count; confirm exact snack box quantity",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2 days",
+        "due_date": "2026-11-27",
+        "task": "Pick up tea/coffee premixes, cold drinks, ice boxes, and water",
+        "owner": "volunteer",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "Event Day",
+        "due_date": "2026-11-29",
+        "task": "Setup food table, test sound system, welcome 100 guests, and coordinate cleanup",
+        "owner": "volunteer",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      }
+    ],
+    "vendors": [
+      {
+        "type": "Catering & Snacks",
+        "icon": "utensils",
+        "ask_before_booking": [
+          "Can you deliver 100 freshly packed hot snack boxes at the exact time?",
+          "Are dipping chutneys, ketchup, and paper napkins included in the quote?",
+          "What is the bulk discount for 100 units paid in cash/UPI?"
+        ],
+        "contract_must_include": [
+          "Itemized count of pieces per box and delivery time commitment",
+          "Food freshness standard and hygiene packaging assurance",
+          "Delivery contact person and transport charges inclusion"
+        ],
+        "payment_advice": "Pay 30% advance, balance 70% upon verifying delivery count.",
+        "red_flags": [
+          "Refusal to deliver on event day without heavy transport markup",
+          "Vague snack portion sizes or inconsistent food quality"
+        ]
+      },
+      {
+        "type": "Venue & Facilities",
+        "icon": "building-2",
+        "ask_before_booking": [
+          "Does the hall rental include chairs, trash cans, and power points?",
+          "What is the noise curfew and teardown cleaning expectation?",
+          "Are external caterers and tea brewing warmers allowed inside?"
+        ],
+        "contract_must_include": [
+          "Exact operational hours including setup and post-event cleanup",
+          "Conditions for full return of refundable security deposit",
+          "Permitted decibel limits and audio equipment guidelines"
+        ],
+        "payment_advice": "Pay required booking fee; ensure deposit receipt is documented.",
+        "red_flags": [
+          "Unannounced electricity or post-party cleaning deductions",
+          "Strict unwritten rules that risk immediate cancellation"
+        ]
+      },
+      {
+        "type": "AV & Sound Rental",
+        "icon": "mic",
+        "ask_before_booking": [
+          "Does the speaker system include battery backup in case of power cuts?",
+          "Are 2 wireless microphones and connection cables provided?",
+          "How far does sound travel without causing distortion?"
+        ],
+        "contract_must_include": [
+          "Model specification, working cables, and spare microphone batteries",
+          "On-call replacement guarantee within 45 minutes of malfunction",
+          "Delivery and return timings clearly marked"
+        ],
+        "payment_advice": "Inspect sound output and mic clarity before full settlement.",
+        "red_flags": [
+          "Supplying cracked cables or microphones with static noise",
+          "Demanding replacement cost for pre-existing equipment wear"
+        ]
+      },
+      {
+        "type": "Supplies & Disposables",
+        "icon": "package",
+        "ask_before_booking": [
+          "Are plates sturdy and leak-proof for hot oily snacks?",
+          "Do you supply 20L purified water dispensers and pumps?",
+          "Can leftover sealed packs of disposables be returned for refund?"
+        ],
+        "contract_must_include": [
+          "Wholesale unit pricing for plates, glasses, and trash bags",
+          "Promised delivery date 48 hours prior to event",
+          "Return policy for undamaged unopened cartons"
+        ],
+        "payment_advice": "Buy from local wholesale market for maximum cash savings.",
+        "red_flags": [
+          "Charging retail prices for 100+ bulk paper product quantities",
+          "Supplying flimsy single-use plastic liable to rip or spill"
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "theme": "Chai & Chitchat High-Tea",
+        "style": "classic",
+        "vibe": "Warm, conversational, community-centered, and easygoing afternoon gathering.",
+        "palette": [
+          {
+            "name": "Spiced Saffron",
+            "hex": "#E07A5F"
+          },
+          {
+            "name": "Chai Ochre",
+            "hex": "#D4A373"
+          },
+          {
+            "name": "Warm Cream",
+            "hex": "#F4F1DE"
+          },
+          {
+            "name": "Forest Fern",
+            "hex": "#3D405B"
+          }
+        ],
+        "decor": "Fairy lights draped over tables, chalkboard drink menu, and mason jar flowers.",
+        "food": "Hot samosas, gulab jamun, crisp salted namkeen, and unlimited cutting masala chai.",
+        "signature_moment": "A lively open-mic storytelling session sharing nostalgic neighborhood memories."
+      },
+      {
+        "theme": "Sunset Park & Lawn Mixer",
+        "style": "modern",
+        "vibe": "Vibrant, breezy, energetic, and photo-friendly outdoor community gathering.",
+        "palette": [
+          {
+            "name": "Sunset Coral",
+            "hex": "#F26419"
+          },
+          {
+            "name": "Teal Blue",
+            "hex": "#33658A"
+          },
+          {
+            "name": "Lemon Zest",
+            "hex": "#F6AE2D"
+          },
+          {
+            "name": "Pure White",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "decor": "Colorful floor rugs, picnic blankets, paper pom-poms, and festive bunting.",
+        "food": "Pre-packed snack boxes, fresh lemonade dispensers, chips, and bite-sized brownies.",
+        "signature_moment": "An interactive 100-person giant group trivia quiz with spot prize chocolates."
+      },
+      {
+        "theme": "Eco-Friendly DIY Potluck Social",
+        "style": "budget_diy",
+        "vibe": "Resourceful, sustainable, friendly, and deeply personal collaborative party.",
+        "palette": [
+          {
+            "name": "Earthy Terracotta",
+            "hex": "#BC6C25"
+          },
+          {
+            "name": "Sage Green",
+            "hex": "#606C38"
+          },
+          {
+            "name": "Natural Linen",
+            "hex": "#DDA15E"
+          },
+          {
+            "name": "Deep Moss",
+            "hex": "#283618"
+          }
+        ],
+        "decor": "Repurposed tin can lanterns, potted succulents, and eco paper party banners.",
+        "food": "Host provides hot beverages and base savory items; guests bring finger desserts.",
+        "signature_moment": "A community Polaroid guest-board where attendees pin fun snapshots and notes."
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Guest count exceeds 100 causing snack shortage",
+        "backup_plan": "Keep ₹2,000 contingency ready to pick up extra biscuits, patties, and juice packs."
+      },
+      {
+        "risk": "Venue littering or trash disposal complaint",
+        "backup_plan": "Station 4 designated heavy-duty trash bins and appoint 2 cleanup volunteers."
+      },
+      {
+        "risk": "Portable sound speaker battery dies mid-event",
+        "backup_plan": "Carry an extension power cord and keep a backup wired auxiliary speaker on site."
+      },
+      {
+        "risk": "Unexpected drizzle or damp weather outdoors",
+        "backup_plan": "Ensure clubhouse interior corridor can accommodate the gathering within 10 minutes."
+      }
+    ],
+    "next_actions": [
+      "Confirm and book the society clubhouse or local park ground this week.",
+      "Send WhatsApp invitation with an RSVP deadline to lock guest numbers.",
+      "Shortlist 2 local snack vendors to negotiate bulk pricing for 100 boxes."
+    ],
+    "createdAt": "2026-10-29T15:26:18.109Z",
+    "updatedAt": "2026-10-29T15:55:21.250Z"
+  },
+  {
+    "event": {
+      "type": "other",
+      "title": "Celebration Event",
+      "occasion": "Celebration"
+    },
+    "date": "2026-12-28",
+    "location": "Local Venue",
+    "guests": 50,
+    "currency": "INR",
+    "total_budget": 50000,
+    "assumptions": [
+      "Estimated for ~50 guests in Local Venue",
+      "10% contingency strictly reserved in budget",
+      "All bookings subject to written vendor contracts",
+      "Timeline organized backward to current date"
+    ],
+    "budget": [
+      {
+        "category": "Venue",
+        "icon": "building-2",
+        "percent": 30,
+        "amount": 15000,
+        "notes": "Location rental"
+      },
+      {
+        "category": "Food & Drinks",
+        "icon": "utensils",
+        "percent": 35,
+        "amount": 17500,
+        "notes": "Catering service"
+      },
+      {
+        "category": "Decor & Setup",
+        "icon": "flower-2",
+        "percent": 15,
+        "amount": 7500,
+        "notes": "Event styling"
+      },
+      {
+        "category": "Photography",
+        "icon": "camera",
+        "percent": 10,
+        "amount": 5000,
+        "notes": "Coverage of moments"
+      },
+      {
+        "category": "Contingency",
+        "icon": "piggy-bank",
+        "percent": 10,
+        "amount": 5000,
+        "notes": "Reserve fund for unexpected costs or overtime."
+      }
+    ],
+    "timeline": [
+      {
+        "when": "T-8 weeks",
+        "due_date": "2026-11-02",
+        "task": "Submit local authority venue and sound permits",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-6 weeks",
+        "due_date": "2026-11-16",
+        "task": "Launch volunteer signups and sponsor outreach",
+        "owner": "volunteer",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-4 weeks",
+        "due_date": "2026-11-30",
+        "task": "Book stage, PA sound gear, and portable toilets",
+        "owner": "vendor",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-3 weeks",
+        "due_date": "2026-12-07",
+        "task": "Arrange on-site first aid station and certified medic",
+        "owner": "volunteer",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2 weeks",
+        "due_date": "2026-12-14",
+        "task": "Print directional signage, banners, and maps",
+        "owner": "user",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-1 weeks",
+        "due_date": "2026-12-21",
+        "task": "Conduct mandatory volunteer walkthrough and brief",
+        "owner": "volunteer",
+        "priority": "medium",
+        "status": "do_now",
+        "done": false
+      },
+      {
+        "when": "Event Day",
+        "due_date": "2026-12-28",
+        "task": "Manage event entry flow, program timing, and teardown",
+        "owner": "volunteer",
+        "priority": "high",
+        "status": "do_now",
+        "done": false
+      }
+    ],
+    "vendors": [
+      {
+        "type": "Venue & Facilities",
+        "icon": "building-2",
+        "ask_before_booking": [
+          "What is the exact venue hire time and setup window allowed?",
+          "Are external caterers, decorators, and alcohol allowed?",
+          "Is dedicated parking and wheelchair accessibility available?"
+        ],
+        "contract_must_include": [
+          "Exact access hours for setup, event, and teardown",
+          "Clear cancellation and weather rescheduling clause",
+          "Breakdown of cleaning fees, security deposit, and taxes"
+        ],
+        "payment_advice": "Standard advance 20-30%; hold balance until venue inspection.",
+        "red_flags": [
+          "Demanding full payment upfront before contract signing",
+          "Vague noise curfew or overtime penalty fees not specified"
+        ]
+      },
+      {
+        "type": "Catering & Bar",
+        "icon": "utensils",
+        "ask_before_booking": [
+          "Can you accommodate dietary needs (vegan, halal, gluten-free)?",
+          "What is your server-to-guest ratio and live counter setup?",
+          "Do you provide tasting sessions prior to final confirmation?"
+        ],
+        "contract_must_include": [
+          "Final per-plate pricing and minimum guest guarantee date",
+          "Food safety standards and waste cleanup responsibility",
+          "Staffing levels and equipment/chafing dish inclusions"
+        ],
+        "payment_advice": "Pay 25% deposit, 50% milestone, final 25% after the event.",
+        "red_flags": [
+          "No certified kitchen or reluctance to provide a food tasting",
+          "Surprise add-on charges for cutlery, ice, or server uniforms"
+        ]
+      },
+      {
+        "type": "Photography & Video",
+        "icon": "camera",
+        "ask_before_booking": [
+          "Who will be the specific lead photographer shooting on the day?",
+          "What is the turnaround timeline for edited high-res photos?",
+          "Do you have a backup camera body and backup memory card workflow?"
+        ],
+        "contract_must_include": [
+          "Exact shooting hours and overtime hourly rate",
+          "Deliverables count (raw photos, edited pictures, teaser video)",
+          "Copyright usage and print release permissions"
+        ],
+        "payment_advice": "Pay 20% retainer, remainder on raw preview delivery.",
+        "red_flags": [
+          "No portfolio of full event galleries (only selective shots)",
+          "Refusal to commit named photographers in the written contract"
+        ]
+      },
+      {
+        "type": "Decor & Floral",
+        "icon": "flower-2",
+        "ask_before_booking": [
+          "Will flowers be fresh and seasonal, and how are they preserved?",
+          "Can you share 3D sketches or physical mockups of the stage?",
+          "What is your breakdown for teardown and cleanup timing?"
+        ],
+        "contract_must_include": [
+          "Itemized inventory of props, floral varieties, and backdrop specs",
+          "Teardown completion deadline to avoid venue penalties",
+          "Replacement clause if specific floral blooms are out of season"
+        ],
+        "payment_advice": "30% advance on design approval, 50% on setup, 20% post event.",
+        "red_flags": [
+          "Using other florists' photos without proof of own execution",
+          "Unwillingness to do a venue site walkthrough before quoting"
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "theme": "Timeless Heritage Grandeur",
+        "style": "classic",
+        "vibe": "Elegant, polished, and gracefully welcoming with warm ambient lighting.",
+        "palette": [
+          {
+            "name": "Royal Plum",
+            "hex": "#7A3E9D"
+          },
+          {
+            "name": "Champagne Gold",
+            "hex": "#D4AF37"
+          },
+          {
+            "name": "Warm Ivory",
+            "hex": "#FFFBF7"
+          },
+          {
+            "name": "Velvet Rose",
+            "hex": "#9E2A2B"
+          }
+        ],
+        "decor": "Draped fabrics, brass lantern centerpieces, and lush floral accents.",
+        "food": "Curated multi-course seated banquet with signature mocktails and decadent desserts.",
+        "signature_moment": "A spotlight ceremonial grand entrance accompanied by live acoustic strings."
+      },
+      {
+        "theme": "Modern Minimalist Celebratory",
+        "style": "modern",
+        "vibe": "Sleek, chic, and design-forward with clean lines and geometric balance.",
+        "palette": [
+          {
+            "name": "Coral Bloom",
+            "hex": "#E8684A"
+          },
+          {
+            "name": "Slate Charcoal",
+            "hex": "#2B2D42"
+          },
+          {
+            "name": "Fresh White",
+            "hex": "#FFFFFF"
+          },
+          {
+            "name": "Soft Blush",
+            "hex": "#F7CAD0"
+          }
+        ],
+        "decor": "Monochromatic floral arrangements, neon quote signage, and LED light bars.",
+        "food": "Interactive gourmet food stations, artisanal grazing boards, and craft beverages.",
+        "signature_moment": "An interactive digital guestbook and celebratory cold-pyro spark fountain drop."
+      },
+      {
+        "theme": "Boutique Eco-DIY Celebratory",
+        "style": "budget_diy",
+        "vibe": "Warm, authentic, community-centric, and creatively personalized.",
+        "palette": [
+          {
+            "name": "Forest Green",
+            "hex": "#2D6A4F"
+          },
+          {
+            "name": "Terracotta",
+            "hex": "#D97706"
+          },
+          {
+            "name": "Natural Kraft",
+            "hex": "#D4A373"
+          },
+          {
+            "name": "Warm Sage",
+            "hex": "#A3B18B"
+          }
+        ],
+        "decor": "Handcrafted fairy light canopies, potted botanical favors, and chalkboard signage.",
+        "food": "Homestyle family buffet, artisanal slider bar, and crowd-pleaser dessert station.",
+        "signature_moment": "A collaborative photo memory wall with instant polaroid prints for guests."
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Inclement weather or outdoor rain disruption",
+        "backup_plan": "Secure venue indoor hall transition clause or 48h canopy hold."
+      },
+      {
+        "risk": "Key vendor delayed or last-minute cancellation",
+        "backup_plan": "Keep emergency backup vendor contacts and signed SLA replacement."
+      },
+      {
+        "risk": "Guest count surge beyond catering estimate",
+        "backup_plan": "Instruct caterer for a 10% safety buffer and overflow seating."
+      },
+      {
+        "risk": "Audio/visual technical failure during program",
+        "backup_plan": "Ensure dual microphones, spare battery packs, and offline playlist."
+      }
+    ],
+    "next_actions": [
+      "Confirm and reserve the other venue this week.",
+      "Lock the core guest list and dietary requirements.",
+      "Schedule consultations with the top 2 shortlisted caterers."
+    ],
+    "id": "evt_1793287347406_bncsa",
+    "createdAt": "2026-10-29T15:22:27.406Z",
+    "updatedAt": "2026-10-29T15:22:27.406Z"
+  },
+  {
+    "id": "evt-unicorn-bday-1",
+    "event": {
+      "type": "birthday",
+      "title": "Aanya's 6th Unicorn Birthday",
+      "occasion": "6th Birthday Celebration"
+    },
+    "date": "2026-11-28",
+    "location": "Pune (Baner)",
+    "guests": 25,
+    "currency": "INR",
+    "total_budget": 40000,
+    "assumptions": [
+      "~25 kids + parents in society hall",
+      "3-hour weekend afternoon party",
+      "10% contingency strictly reserved",
+      "Pastel unicorn theme with custom cake"
+    ],
+    "budget": [
+      {
+        "category": "Food & Cake",
+        "icon": "utensils",
+        "percent": 35,
+        "amount": 14000,
+        "notes": "Healthy finger food, juice boxes, and customized 2kg unicorn cake."
+      },
+      {
+        "category": "Venue Rental",
+        "icon": "building-2",
+        "percent": 20,
+        "amount": 8000,
+        "notes": "Society clubhouse or community hall with AC."
+      },
+      {
+        "category": "Decor & Balloons",
+        "icon": "flower-2",
+        "percent": 15,
+        "amount": 6000,
+        "notes": "Pastel organic balloon arch, unicorn cutout backdrop, table covers."
+      },
+      {
+        "category": "Entertainment & Games",
+        "icon": "music",
+        "percent": 12.5,
+        "amount": 5000,
+        "notes": "Kids games host / magic show and musical games."
+      },
+      {
+        "category": "Return Gifts & Favors",
+        "icon": "gift",
+        "percent": 7.5,
+        "amount": 3000,
+        "notes": "Unicorn stationery sets and coloring books (~₹120/kid)."
+      },
+      {
+        "category": "Contingency",
+        "icon": "piggy-bank",
+        "percent": 10,
+        "amount": 4000,
+        "notes": "Reserve fund for unexpected extra snacks or overtime."
+      }
+    ],
+    "timeline": [
+      {
+        "when": "Immediate / This Week",
+        "due_date": "2026-10-31",
+        "task": "Book society clubhouse hall and confirm deposit",
+        "owner": "user",
+        "priority": "high",
+        "status": "do_now",
+        "done": true
+      },
+      {
+        "when": "T-4 weeks",
+        "due_date": "2026-11-04",
+        "task": "Send animated WhatsApp unicorn invitations with RSVP",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-3 weeks",
+        "due_date": "2026-11-11",
+        "task": "Order 2kg strawberry-vanilla unicorn cake from home baker",
+        "owner": "user",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2 weeks",
+        "due_date": "2026-11-18",
+        "task": "Purchase unicorn return gifts, pastel balloons, and cutlery",
+        "owner": "family",
+        "priority": "medium",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-1 week",
+        "due_date": "2026-11-24",
+        "task": "Confirm final kid headcount with parents and snack count",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "T-2 days",
+        "due_date": "2026-11-26",
+        "task": "Prepare kids party music playlist and charge portable speaker",
+        "owner": "family",
+        "priority": "low",
+        "status": "upcoming",
+        "done": false
+      },
+      {
+        "when": "Event Day",
+        "due_date": "2026-11-28",
+        "task": "Hall balloon setup at 3 PM, party kicks off at 5 PM",
+        "owner": "user",
+        "priority": "high",
+        "status": "upcoming",
+        "done": false
+      }
+    ],
+    "vendors": [
+      {
+        "type": "Bakery & Cake Artist",
+        "icon": "cake",
+        "ask_before_booking": [
+          "Can you deliver the cake directly to the venue at 4:30 PM?",
+          "Do you use eggless sponge and natural food dyes?",
+          "Can you share photos of past unicorn cakes you have crafted?"
+        ],
+        "contract_must_include": [
+          "Exact flavor, weight (2kg), and unicorn horn design mockup",
+          "Confirmed delivery window and driver contact number",
+          "Full refund policy in case of transit damage"
+        ],
+        "payment_advice": "Pay 50% advance on booking, balance on delivery inspection.",
+        "red_flags": [
+          "No refrigeration guarantee during transit",
+          "Unable to confirm exact delivery time slot"
+        ]
+      },
+      {
+        "type": "Balloons & Decorator",
+        "icon": "flower-2",
+        "ask_before_booking": [
+          "How long does setup take (will 2 hours be enough)?",
+          "Do you use biodegradable latex balloons?",
+          "Are backdrop stand and fairy lights included in the price?"
+        ],
+        "contract_must_include": [
+          "Color scheme: pastel lavender, mint, blush pink, and gold",
+          "Arrival time (strictly 3 PM) and teardown commitment",
+          "Replacement guarantee for deflated balloons"
+        ],
+        "payment_advice": "30% token advance, balance right after setup inspection.",
+        "red_flags": [
+          "Using other decorators' watermarked Instagram photos",
+          "Asking for 100% upfront payment before reaching the venue"
+        ]
+      },
+      {
+        "type": "Kids Entertainer / Games Host",
+        "icon": "music",
+        "ask_before_booking": [
+          "What games do you conduct for 5 to 7 year olds?",
+          "Do you bring your own wireless microphone and music speaker?",
+          "What is the duration of the engagement (standard 60-90 mins)?"
+        ],
+        "contract_must_include": [
+          "Performance start and finish timings",
+          "List of games and prizes supplied by entertainer",
+          "Backup entertainer replacement clause in case of emergency"
+        ],
+        "payment_advice": "Pay advance 20%, remainder after performance finishes.",
+        "red_flags": [
+          "No video clips of past kids' party hosting",
+          "Refusal to arrive 20 minutes early for soundcheck"
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "theme": "Timeless Enchanted Unicorn Kingdom",
+        "style": "classic",
+        "vibe": "Graceful, dreamy, and whimsical with soft pastel drapery and subtle fairy lights.",
+        "palette": [
+          {
+            "name": "Pastel Lavender",
+            "hex": "#7A3E9D"
+          },
+          {
+            "name": "Blush Coral",
+            "hex": "#E8684A"
+          },
+          {
+            "name": "Warm Ivory",
+            "hex": "#FFFBF7"
+          },
+          {
+            "name": "Champagne Shimmer",
+            "hex": "#D4AF37"
+          }
+        ],
+        "decor": "Soft chiffon canopy, cascading pastel balloon garland, and gold unicorn horn centerpieces.",
+        "food": "Mini gourmet sandwiches, rainbow fruit skewers, unicorn cupcakes, and fresh strawberry smoothies.",
+        "signature_moment": "A majestic glitter confetti toss as the birthday child cuts the rainbow layer cake."
+      },
+      {
+        "theme": "Neon Pastel Pop Unicorn",
+        "style": "modern",
+        "vibe": "Energetic, vibrant, contemporary, and Instagrammable for kids and parents alike.",
+        "palette": [
+          {
+            "name": "Electric Coral",
+            "hex": "#E8684A"
+          },
+          {
+            "name": "Soft Lilac",
+            "hex": "#C9A0E6"
+          },
+          {
+            "name": "Mint Teal",
+            "hex": "#1F8A5B"
+          },
+          {
+            "name": "Pure White",
+            "hex": "#FFFFFF"
+          }
+        ],
+        "decor": "Custom LED neon 'Believe in Magic' sign, metallic fringe curtain, and holographic tableware.",
+        "food": "Artisanal slider bar, DIY waffle station with pastel sprinkles, and fizzy mocktails.",
+        "signature_moment": "A lively kids dance-off featuring glowing LED flower crowns and neon wristbands."
+      },
+      {
+        "theme": "Handcrafted Paper & Flora DIY Unicorn",
+        "style": "budget_diy",
+        "vibe": "Heartfelt, creative, eco-friendly, and packed with personalized handmade charm.",
+        "palette": [
+          {
+            "name": "Sage Green",
+            "hex": "#2D6A4F"
+          },
+          {
+            "name": "Dusty Rose",
+            "hex": "#E8684A"
+          },
+          {
+            "name": "Natural Kraft",
+            "hex": "#D4A373"
+          },
+          {
+            "name": "Soft Cream",
+            "hex": "#FFFBF7"
+          }
+        ],
+        "decor": "Handmade paper giant flower backdrop with paper unicorn eyelashes, yarn tassels, and chalkboards.",
+        "food": "Homestyle baked mini pizzas, popcorn cones, fruit punch, and frosted sugar cookies.",
+        "signature_moment": "An interactive DIY headband crafting table where each child creates their own unicorn horn."
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Kids getting overexcited or disorderly during games",
+        "backup_plan": "Keep structured 15-minute game blocks and a quiet coloring table corner."
+      },
+      {
+        "risk": "Cake delayed or damaged in transit",
+        "backup_plan": "Schedule delivery for 4:30 PM (30 mins before guests) and keep cupcakes on standby."
+      },
+      {
+        "risk": "Rain preventing any planned outdoor lawn games",
+        "backup_plan": "Society hall indoor space is reserved with ample room for indoor musical chairs."
+      }
+    ],
+    "next_actions": [
+      "Confirm and pay the society hall deposit this week.",
+      "Send WhatsApp invitation cards to the 25 kid families.",
+      "Lock the 2kg unicorn cake order with the home baker."
+    ],
+    "createdAt": "2026-10-29T10:00:00.000Z",
+    "updatedAt": "2026-10-29T10:00:00.000Z"
+  }
+]
